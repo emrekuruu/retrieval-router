@@ -11,7 +11,7 @@
   <strong>Emre Kuru · Mehmet Onur Keskin · Reza Farahbakhsh · Noel Crespi</strong>
 </p>
 
-This repository is the official implementation of [**RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval**](https://arxiv.org/pdf/2608.23176).
+This repository is the official implementation of [**RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval**](https://arxiv.org/pdf/2608.25625).
 
 <p align="center">
   <a href="#motivation">Motivation</a> ·
